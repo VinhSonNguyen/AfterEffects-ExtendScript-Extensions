@@ -1,5 +1,3 @@
-'''javascript
-
 // Reference script to create palette with resource string elements
 // Provided by CreativeDojo.net
 
@@ -64,5 +62,3 @@
    // Execute script
    myScript(this);
 }
-
-'''
