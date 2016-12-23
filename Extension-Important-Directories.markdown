@@ -1,6 +1,6 @@
-### Revision of Kamil Khadeyev's list
-
 ## Extensions Directory 
+
+Revision of Kamil Khadeyev's list
 #### CC 2014 / 2015:
 Mac:  
 ```
