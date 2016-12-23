@@ -1,4 +1,6 @@
-## Extensions location  
+### Revision of Kamil Khadeyev's list
+
+## Extensions Directory 
 #### CC 2014 / 2015:
 Mac:  
 ```
@@ -36,17 +38,3 @@ Mac:
 ```
 ~/Library/Caches/CSXS/cep_cache/
 ```  
-  
-## Enabling debug mode  
-**Mac:**    
-Add a row with String key `PlayerDebugMode`, and value `1`
-```
-~/Library/Preferences/com.adobe.CSXS.[ version ].plist
-```
-
-
-**Win (regedit):**  
-Add a String key named `PlayerDebugMode`, and value `1`
-```
-HKEY_CURRENT_USER/Software/Adobe/CSXS.[ version ]
-``` 
